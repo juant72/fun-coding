@@ -6,7 +6,3 @@ function display_fisrt_cube(items:number[] ){
 
 let inputs: number[]=[2,3,4,5,6,7,8];
 display_fisrt_cube(inputs)
-
-
-
-
