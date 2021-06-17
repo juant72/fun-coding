@@ -1,0 +1,16 @@
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.csproj.AssemblyReference.cache
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.AssemblyInfoInputs.cache
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.AssemblyInfo.cs
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.csproj.CoreCompileInputs.cache
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\QuadraticComplexity.exe
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\QuadraticComplexity.deps.json
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\QuadraticComplexity.runtimeconfig.json
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\QuadraticComplexity.runtimeconfig.dev.json
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\QuadraticComplexity.dll
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\ref\QuadraticComplexity.dll
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\bin\Debug\net5.0\QuadraticComplexity.pdb
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.dll
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\ref\QuadraticComplexity.dll
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.pdb
+C:\Prototipos\fun-coding\Big O Notation\QuadraticComplexity\CSharp\obj\Debug\net5.0\QuadraticComplexity.genruntimeconfig.cache
